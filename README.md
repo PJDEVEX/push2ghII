@@ -41,8 +41,3 @@ We have referred to the below content apart from the learning content provided b
 
 1. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)
 2. [Am I Responsive?](https://ui.dev/amiresponsive?url=https://pjdevex.github.io/push2ghII/index.html)
-3. 
-
-
-
-
