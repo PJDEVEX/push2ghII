@@ -6,7 +6,7 @@
 
 As a part of the self-learning part of the Full-stack diploma program at Code institute, the website has been developed. 
 
-![My_first_website](https://drive.google.com/file/d/1djL81W_m9EIzDP0H_5QVwKHgCD6Dm4XR/view?usp=sharing)
+![My_first_website](responsive_design.png)
 
 ## Purpose
 
